@@ -1,33 +1,34 @@
-<div align="center">
-  <h1>👋 Hello, I’m Almouhannad Hafez</h1>
-  <p><strong>Final year AI & Software Engineering student @HIAST</strong></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 </div>
 
----
+<h1 align="center">
+  Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Almouhannad Hafez  
+</h1>
 
-## 🔭 Currently Working On  
+## 👨🏻‍💻 About me
+
+### 🔭 Currently Working On  
 - **AI & Software Engineering**
 
-## 👯 Collaboration Opportunities  
+### 👯 Collaboration Opportunities  
 - **Open-source** deep learning projects (Transformers, LLMs, LMMs)  
 - Designing & implementing **clean-architecture** microservices for ML model serving
 
-## 🤝 Seeking Assistance  
+### 🤝 Seeking Assistance  
 - **Prompt Engineering** & Retrieval-Augmented Generation (RAG)  
 - **Containerization** with Docker
 
-## 🌱 Learning Focus  
+### 🌱 Learning Focus  
 - Efficient fine-tuning & quantization strategies for LLMs & LMMs on **limited hardware**
 
-## 💬 Ask Me About  
+### 💬 Ask Me About  
 - Designing clean, maintainable RESTful APIs (Hexagonal, Clean, Vertical Slices)  
 - Building & deploying Transformer-based **NLP & VLM** solutions  
 - Real-time object detection with **YOLO** & computer-vision best practices
 
-## ⚡ Fun Fact  
-> I drink ***Mate (متة)*** 5 times a day 
-
----
+### ⚡ Fun Fact  
+> I drink ***Mate*** 🧉 5 times a day 
 
 ## 🌐 Let’s Connect  
 <p align="center">
@@ -47,8 +48,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
----
 
 ## 💻 Tech Stack
 
@@ -84,11 +83,9 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </p>
 
----
-
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Almouhannad&theme=dark&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Almouhannad&theme=dark&show_icons=true&include_all_commits=false" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almouhannad&theme=dark&layout=compact" alt="Top Languages" />
