@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I’m Almouhannad Hafez</h1>
-  <p><strong>Final year AI & Software Engineer</strong></p>
+  <p><strong>Final year AI & Software Engineering student @HIAST</strong></p>
 </div>
 
 ---
