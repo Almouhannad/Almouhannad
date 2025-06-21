@@ -25,7 +25,7 @@
 - Real-time object detection with **YOLO** & computer-vision best practices
 
 ## ⚡ Fun Fact  
-> I once trained an object-detection model on **10,000+ images** from **1,001 classes** — and got it responding in under **200 ms** on a budget edge device!
+> I drink ***Mate (متة)*** 5 times a day 
 
 ---
 
